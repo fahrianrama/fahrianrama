@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahrianrama 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript like Node, Express etc.
+- 🌱 I’m currently learning Web Dev Frameworks like React, Laravel, EJS etc.
 - 📫 You can find me on Instagram @fahrian_r_d or Linkedin https://www.linkedin.com/in/fahrian-ramaditiya-131232213/
 
 <!---
